@@ -45,6 +45,11 @@ Funzionalità simili a enf_b0.py, ma utilizza il modello ViT.
 Adatta il preprocessing delle immagini specifico per ViT.
 
 
+image_classifier_gui_1.1.py
+
+Questo script implementa una GUI in Python per la classificazione delle immagini, utilizzando PyQt5 per l'interfaccia utente. La GUI permette di caricare immagini, eseguirne la classificazione tramite un modello di rete neurale basato su EfficientNet B0, e mostra i risultati con una barra di progresso e un grafico. Le immagini possono essere classificate come "Normale" o "Anomalo", ed è possibile esportare i risultati in un file CSV
+
+
 
 
 
